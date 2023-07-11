@@ -798,12 +798,12 @@ section {
   font-weight: 1200;
 }
 .clients .swiper-slide img {
-  opacity: 0.7;
+  opacity: 0.9;
   transition: 0.2s;
 }
 
 .clients .swiper-slide img:hover {
-  opacity: 1;
+  opacity: 1.8;
 }
 
 .clients .swiper-pagination {
