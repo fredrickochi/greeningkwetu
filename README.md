@@ -1,2 +1,0 @@
-# greeningkwetu
-climate change initiative
