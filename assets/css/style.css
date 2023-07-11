@@ -1339,7 +1339,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #ffffff;
+  color: #080d1b;
   float: left;
   width: 44px;
   height: 44px;
@@ -1363,7 +1363,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #555555;
+  color: #ffffff;
 }
 
 .contact .info .social-links {
@@ -1387,14 +1387,14 @@ section {
 
 .contact .info .social-links a:hover {
   background: #7effa0;
-  color: #fff;
+  color: #ffffff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
   background: #5cb874;
-  color: #fff;
+  color:#fff;
 }
 
 .contact .contact-email {
@@ -1402,7 +1402,7 @@ section {
   font-weight: bold;
 }
 
-.contact .php-email-form {
+/*.contact .php-email-form {
   width: 1000px;
   border-top: 3px solid #5cb874;
   border-bottom: 3px solid #5cb874;
@@ -1498,7 +1498,7 @@ section {
   100% {
     transform: rotate(360deg);
   }
-}
+}*/
 
 /*--------------------------------------------------------------
 # Breadcrumbs
