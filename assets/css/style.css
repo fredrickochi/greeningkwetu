@@ -1402,7 +1402,7 @@ section {
   font-weight: bold;
 }
 
-/*.contact .php-email-form {
+.contact .php-email-form {
   width: 1000px;
   border-top: 3px solid #5cb874;
   border-bottom: 3px solid #5cb874;
